@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "point-sort",
+    "good2monajson",
+]
